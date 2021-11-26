@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Yash
+
+[![Website](https://img.shields.io/badge/Yash-UP-blueviolet)](https://ruizo.is-a.dev/)
 
 ---
 
