@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Yash GitHub Stats]()
 
 <details>
   <summary>Top Languages </summary>
