@@ -20,6 +20,12 @@
   
 ---
   
-  <p>Github Streak</p>
+  <details>
+  <summary>Github Streak</summary>
+  <br/>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Blaine's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=mezeru&theme=dark&date_format=M%20j%5B%2C%20Y%5D"></a>
+  <br/>
+</details>
+
  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Blaine's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=mezeru&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+
