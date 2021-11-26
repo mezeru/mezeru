@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Yash GitHub Stats](https://github-readme-stats.vercel.app/api?username=mezeru&show_icons=true&theme=tokyonight)
 
 <details>
-  <summary>Top Langs </summary>
+  <summary>Top Languages </summary>
   <br/>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezeru&layout=compact&theme=midnight-purple" />
   <br/>
