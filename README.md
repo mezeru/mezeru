@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on Health Systems and different health standards
 - 🌱 I’m currently learning GoLang and FHIR
-- 📷You can find me on Instagram as @_juz_someone.
-- 📫 Drop me a message on [my website](https://ruizo.is-a.dev/) to contact me
+- 📷 You can find me on Instagram as @_juz_someone.
+- 📫 How to reach me: Drop me a message on [my website](https://ruizo.is-a.dev/) to contact me
 
 ---
 
