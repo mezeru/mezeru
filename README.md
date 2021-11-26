@@ -17,11 +17,14 @@
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Blaine's Top Languages" src="https://github-readme-stats.vercel.app/api?username=mezeru&show_icons=true&theme=tokyonight" />
   <br/>
 </details>
+
+---
   
-<Github Streaks>
+<details>
+   <summary> Github Streaks</summary>
   <br/>
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Blaine's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=mezeru&theme=blood-dark&date_format=M%20j%5B%2C%20Y%5D" />
   <br/>
-</Github Streaks>
+</details>
 
 ---
