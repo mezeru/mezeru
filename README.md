@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Yash GitHub Stats](https://github-readme-stats.vercel.app/api?username=mezeru&show_icons=true&theme=tokyonight) 
+ 
+
+<details>
+  <summary>GitHub Stats </summary>
+  <br/>
+  ![Yash GitHub Stats](https://github-readme-stats.vercel.app/api?username=mezeru&show_icons=true&theme=tokyonight)
+  <br/>
+</details>
