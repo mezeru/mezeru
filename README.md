@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Yash GitHub Stats](https://github-readme-stats.vercel.app/api?username=mezeru&show_icons=true&theme=tokyonight)
+![Yash GitHub Stats]()
 
 <details>
   <summary>Top Languages </summary>
   <br/>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Blaine's Top Languages" src="https://github-readme-stats.vercel.app/api?username=mezeru&show_icons=true&theme=tokyonight" />
   <br/>
 </details>
 
