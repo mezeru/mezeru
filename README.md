@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+---
 
 
 - 🔭 I’m currently working on Health Systems and different health standards
@@ -8,7 +8,7 @@
 - 📷You can find me on Instagram as @_juz_someone.
 - 📫 Drop me a message on [my website](https://ruizo.is-a.dev/) to contact me
 
-
+---
 
 <details>
   <summary>My Github Stats</summary>
@@ -17,3 +17,4 @@
   <br/>
 </details>
 
+---
