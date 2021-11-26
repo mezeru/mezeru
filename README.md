@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Yash
 
-[![Website](https://img.shields.io/badge/Yash-Running-blueviolet)](https://ruizo.is-a.dev/)
+[![Website](https://img.shields.io/badge/Yash-Depolyed-blueviolet)](https://ruizo.is-a.dev/)
 
 ---
 
