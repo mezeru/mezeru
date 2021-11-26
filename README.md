@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <details>
   <summary>GitHub Stats </summary>
   <br/>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yash's Github profile" src="https://github-readme-stats.vercel.app/api?username=mezeru&show_icons=true&hide=stars&theme=midnight-purple" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Blaine's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakeinstein&layout=compact&theme=midnight-purple" />
   <br/>
 </details>
 
