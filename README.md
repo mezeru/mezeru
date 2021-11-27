@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on/with [Medblocks](https://github.com/medblocks)
-- 🌱 I’m currently learning GoLang and FHIR
+- 🌱 I’m currently learning [GoLang](https://go.dev/) and [FHIR](https://www.hl7.org/fhir/)
 - 📷 You can find me on Instagram as [@_juz_someone_](https://www.instagram.com/_juz_someone_/).
 - 📫 How to reach me: Drop me a message on [my website](https://ruizo.is-a.dev/) to contact me
 - 👯 I’m looking to collaborate on JS, TS, GoLang, openEHR and FHIR Systems
