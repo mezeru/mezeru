@@ -24,7 +24,7 @@
   
 
  <details>
-  <summary>My Top Languages</summary>
+  <summary>Languages I Know </summary>
   <br/>
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezeru&layout=compact&theme=dracula&hide=jupyter&langs_count=11"></a>
   <br/>
