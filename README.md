@@ -4,7 +4,7 @@
 
 ---
 
-- 🌱 I’m currently learning [GoLang](https://go.dev/) and DSA
+- 🌱 I’m currently learning [GoLang](https://go.dev/) and Web3.0
 - 📷 You can find me on Instagram as [@_juz_someone_](https://www.instagram.com/_juz_someone_/).
 - 📫 How to reach me: Drop me a message on [my website](https://ruizo.is-a.dev/) to contact me
 - 👯 I’m looking to collaborate on [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [GoLang](https://go.dev/)
